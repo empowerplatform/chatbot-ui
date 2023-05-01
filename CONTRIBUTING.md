@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-**Welcome to Chatbot UI!**
+**Welcome to Empower for Generative AI!**
 
 We appreciate your interest in contributing to our project.
 
